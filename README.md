@@ -8,7 +8,7 @@
 ## Installation
 
 ```
-$ go get github.com/grokify/ringcentral
+$ go get github.com/grokify/ringcentral/...
 ```
 
 ## Usage
